@@ -28,7 +28,7 @@ export const AddModal = () => {
       {
         id: Number(maxId + 1),
         len: len,
-        wkt: "string",
+        wkt: "LINESTRING(50.322172362262485 40.390621441334275,50.323513732619745 40.39036415332981)",
         status: Number(status),
       },
     ]);
